@@ -1,0 +1,12 @@
+Power BI Report: Global Superstore Sales Analysis
+This interactive Power BI report analyzes sales, profit, and product category performance using the Global Superstore dataset. The project focuses on data cleaning, transforming raw Excel data in Power Query, and visualizing key insights for better business decision-making.
+Key Highlights:
+* Total profit per product category
+* Region-wise sales and profitability
+* Visual trend analysis of key metrics
+* Custom theme and layout styling
+Tools Used:
+Power BI, Power Query, Excel
+Skills Demonstrated:
+Data cleaning, DAX basics, interactive dashboard design, and storytelling with data
+
